@@ -1,5 +1,2 @@
-# Git tutorial
+git test
 
-	- feature-A
-	- add
-	- add2
